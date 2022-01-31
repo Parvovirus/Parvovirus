@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Fabrizio!
+## 👋 &nbsp;Hey there! I'm Jorge!
 
 ### 👨🏻‍💻 &nbsp;About Me
 >🎓 After a few years of my working life dedicated to drafting and engineering, since the beginning of the year 2021, I decided to bet on myself once again and on what I have considered for many years the future, software development, specifically in the web field.
@@ -27,19 +27,19 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/fabriziocarella">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabriziocarella&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabriziocarella&layout=compact&langs_count=8&theme=algolia" />
+<a href="https://github.com/">
+  <img height="180em" src=""/>
+  <img height="180em" src="" />
 </a>
 </p>
 
 ### ⚙️ Here's my Codewars stats:
 
-<img src= "https://www.codewars.com/users/fabriziocarella/badges/micro" width= "200"/>
+<img src= ""/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/fabriziocarella"><img src="https://img.shields.io/badge/-Fabrizio%20Carella-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fabriziocarellas@gmail.com"><img src="https://img.shields.io/badge/-fabriziocarellas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href=""><img src=""/></a>
+<a href="mailto:jorge.sanchezcuesta@hotmail.com"></a>
 </p>
