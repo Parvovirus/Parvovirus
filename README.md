@@ -26,20 +26,15 @@
 
 ### ⚙️ GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/">
-  <img height="180em" src=""/>
-  <img height="180em" src="" />
-</a>
-</p>
+<p> Comming soon ... </p>
+
 
 ### ⚙️ Here's my Codewars stats:
 
-<img src= ""/>
+<p> Comming soon ... </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href=""><img src=""/></a>
 <a href="mailto:jorge.sanchezcuesta@hotmail.com"></a>
 </p>
